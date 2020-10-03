@@ -72,7 +72,7 @@ Something I would recomend learning to use before making the Fork would be the F
 ## Tire
 
 ### Description
-
+The tire starts with a simple trapezoid with the bottom's points 20 mm apart. The sides of the trapezoid are equal and the bottom left point is 10 degrees from the origin. There's a construction line from the origin going out to the right and the distance from the bottom right point on the trapezoid and reflected over that horizontal line is 80 mm. The distance from the top right point of the trapezoid is 110 mm reflected over the horizontal center line. You then revolve the trapezoid and fillet the edges 8 mm. 
 ### Evidence
 
 ### Image
