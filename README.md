@@ -76,7 +76,7 @@ Something I would recomend learning to use before making the Fork would be the F
 ### Evidence
 
 ### Image
-![Tire](images/tire.jpg)
+![Tire](images/Tire.png)
 ### Reflection
 
 ---
