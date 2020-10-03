@@ -78,8 +78,8 @@ The tire starts with a simple trapezoid with the bottom's points 20 mm apart. Th
 ### Image
 ![Tire](Images/Tire.png)
 ### Reflection
+I wasn't sure how to get a degree dimension so I'll tell you how to.You need to click Dimension or use the shortcut by typing 'd' on the keyboard. First click on the bottom left point on the trapezoid, then click on the horizontal construction line coming from the origin. Onshape is smart and will realize what you are doing and make it a degree. Then proceed as you would a normal degree. 
 
----
 
 
 ## Wheel
