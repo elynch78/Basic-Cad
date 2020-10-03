@@ -63,7 +63,7 @@ The fork is more complex and you need to know how to use more tools on Onshape i
 ### Evidence
 [ForkLink](https://cvilleschools.onshape.com/documents/927915425b900e39900be1d1/w/ce34bb8be3d17142ba8f5a39/e/9dd7429963bebce307ea0c64)
 ### Image
-![Fork](Images/Fork.jpg)
+![Fork](Images/Fork.png)
 ### Reflection
 Something I would recomend learning to use before making the Fork would be the Fillet and Chamfer. The Fillet tool is used to round and soften hard edges. The chamfer is used to make a hard edge sloped in a certain direction. The difference between the fillet and the Chamfer is that the fillet tool rounds lines and edges while the Chamfer tool is used to slope the line down from one line to another slightly down. 
 
@@ -76,7 +76,7 @@ Something I would recomend learning to use before making the Fork would be the F
 ### Evidence
 
 ### Image
-![Tire](Images/Tire.png)
+![Tire](Images/Tire.jpg)
 ### Reflection
 
 ---
