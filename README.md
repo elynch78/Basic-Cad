@@ -85,7 +85,7 @@ I wasn't sure how to get a degree dimension so I'll tell you how to.You need to 
 ## Wheel
 
 ### Description
-
+The wheel starts with a simple 3 rectangle overlapping sketch on the right plane in the empty space inside the tire. You use construction lines before you sketch those rectangles because you will be revolving that sketch once you add the dimensions and trim the inside lines. The rectangle sketch should look like an Uppercase letter I once you have trimmed the inside and it is fully defined. You'll revolve the sketch around the horizontal construction line and then you'll cut out the spoke and circular pattern it so there are 5 spokes. I have put a link in my reflection if you need help making the inital spoke. 
 ### Evidence
 [Onshape Wheel](https://cvilleschools.onshape.com/documents/927915425b900e39900be1d1/w/ce34bb8be3d17142ba8f5a39/e/640b708da3ca0a9004b344a1)
 ### Image
