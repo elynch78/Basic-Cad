@@ -108,7 +108,9 @@ When cutting out the spokes it is a bit complicated but [following along with Mr
 [onshape link to the bearing on the wheel](https://cvilleschools.onshape.com/documents/927915425b900e39900be1d1/w/ce34bb8be3d17142ba8f5a39/e/640b708da3ca0a9004b344a1)
 
 ### Image
-
+![Big Bearing](Images/Bigbearing.png)
+![AxleCollar](Images/AxleCollar.png)
+![Bearing](Images/Bearing.png)
 ### Reflection
 
 ---
