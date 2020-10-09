@@ -92,7 +92,7 @@ I wasn't sure how to get a degree dimension so I'll tell you how to.You need to 
 ![Wheel](Images/Wheel.png)
 ### Reflection
 I accidentally made my tire on the front plane instead of the top plane so when I went to make my sketch on the right plane for the wheel that I was going to revolve it didn't seem right. I noticed my mistake from the tire and instead of redoing it which would have been a huge waste of time, I clicked on the sketch and selected the front plane instead of the right plane so that the sketch was perpendicular to the tire. I did this so that it would fit inside the tire correctly. 
-When cutting out the spokes it is a bit complicated but [following along with Mr. H's video](https://cvilleschools.onshape.com/documents/927915425b900e39900be1d1/w/ce34bb8be3d17142ba8f5a39/e/640b708da3ca0a9004b344a) made it easy. 
+When cutting out the spokes it is a bit complicated but [following along with Mr. H's video](https://www.youtube.com/watch?v=DbOjDNK8Nsk&feature=emb_title) made it easy. 
 
 4
 
