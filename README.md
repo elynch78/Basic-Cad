@@ -99,7 +99,7 @@ When cutting out the spokes it is a bit complicated but [following along with Mr
 ## AxleCollarBearings
 
 ### Description
-
+To make the big bearing start a sketch on the front plane and draw 2 circles one within the other. Make the small one 20 mm and the large one 30 mm. Extrude the area between the 2 circles' lines 5 mm. To make the bearing on the wheel, USE the 2 circle lines on the center of the wheel that sticks out a bit. Now do the same thing you did with the big bearing and extrude the area between those 2 circle lines 5 mm. To make the axle and collar takes a little bit more time because there are more steps. I have linked a full explanatory video for all the parts in my reflection if you are stuck or if you need to make the axle and collar.
 ### Evidence
 [Onshape link to the axel and collar](https://cvilleschools.onshape.com/documents/927915425b900e39900be1d1/w/ce34bb8be3d17142ba8f5a39/e/772e639fd437d905870e0171)
 
@@ -112,5 +112,5 @@ When cutting out the spokes it is a bit complicated but [following along with Mr
 ![AxleCollar](Images/AxleCollar.png)
 ![Bearing](Images/Bearing.png)
 ### Reflection
+A useful thing to know how to do is how to make a new part studio within a document so you aren't making many documents. This far into the process of making the Caster you should know this by now but I'll explain it anyway. Down at the bottom of your screen you will see little rectangular boxes that say something like Part Studio 1 because you havent renamed them anything yet. To rename them just right click and select rename. To make another part studio just click the plus pn the bottom left of the screen. [Here is the link for the part's how-To video](https://www.youtube.com/watch?v=2r7YqGuF1vY&feature=emb_title)
 
----
