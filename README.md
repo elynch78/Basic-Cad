@@ -101,6 +101,9 @@ When cutting out the spokes it is a bit complicated but [following along with Mr
 ### Description
 
 ### Evidence
+[Onshape link to the axel and collar](https://cvilleschools.onshape.com/documents/927915425b900e39900be1d1/w/ce34bb8be3d17142ba8f5a39/e/772e639fd437d905870e0171)
+[Link to the big bearing[(https://cvilleschools.onshape.com/documents/927915425b900e39900be1d1/w/ce34bb8be3d17142ba8f5a39/e/5a77d336633f9ce212caf637)
+[onshape link to the bearing on the wheel[(https://cvilleschools.onshape.com/documents/927915425b900e39900be1d1/w/ce34bb8be3d17142ba8f5a39/e/640b708da3ca0a9004b344a1)
 
 ### Image
 
