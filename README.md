@@ -115,7 +115,7 @@ To make the big bearing start a sketch on the front plane and draw 2 circles one
 A useful thing to know how to do is how to make a new part studio within a document so you aren't making many documents. This far into the process of making the Caster you should know this by now but I'll explain it anyway. Down at the bottom of your screen you will see little rectangular boxes that say something like Part Studio 1 because you havent renamed them anything yet. To rename them just right click and select rename. To make another part studio just click the plus pn the bottom left of the screen. [Here is the link for the part's how-To video](https://www.youtube.com/watch?v=2r7YqGuF1vY&feature=emb_title)
 
 
-###SubAssembly
+### SubAssembly
 
 ### Description
 YOu make an Assembly studio at the bottom of the page and then insert the Wheel, tire, or them combined if you made them as one which I did, and 2 bearings. You want to fix the wheel to the origin. Then you will want to mate the tire and wheel together if they are not already one part. Select the fasten mate and then the 
