@@ -118,15 +118,13 @@ A useful thing to know how to do is how to make a new part studio within a docum
 ### SubAssembly
 
 ### Description
-YOu make an Assembly studio at the bottom of the page and then insert the Wheel, tire, or them combined if you made them as one which I did, and 2 bearings. You want to fix the wheel to the origin. Then you will want to mate the tire and wheel together if they are not already one part. Select the fasten mate and then the 
-
-
+YOu make an Assembly studio at the bottom of the page and then insert the Wheel, tire, or them combined if you made them as one which I did, and 2 bearings. You want to fix the wheel to the origin. You will want to mate the tire and wheel together if they are not already one part. To do that select the fasten mate and then the inside face of the tire and the exterior flat outside of the wheel. Now insert the axle and bearing from your wheel and tire parts studio 2 times. Go into the revolute mate and select the center mate fastener in the axle and the center of the wheel. Next select the center of one of the bearing's front face and the central mate fastener of the small extrude that comes off the center of the wheel. Do that again with the second bearing and the other side of the wheel. 
 
 ### Evidence
-
+![Onshape](https://cvilleschools.onshape.com/documents/927915425b900e39900be1d1/w/ce34bb8be3d17142ba8f5a39/e/9c28c0e7980608056d37a530)
 
 ### Image
-
+![SubAssembly[(Images/SubAssembly.png)
 
 ### Reflection
 
