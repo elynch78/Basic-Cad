@@ -118,7 +118,7 @@ A useful thing to know how to do is how to make a new part studio within a docum
 ### SubAssembly
 
 ### Description
-YOu make an Assembly studio at the bottom of the page and then insert the Wheel, tire, or them combined if you made them as one which I did, and 2 bearings. You want to fix the wheel to the origin. You will want to mate the tire and wheel together if they are not already one part. To do that select the fasten mate and then the inside face of the tire and the exterior flat outside of the wheel. Now insert the axle and bearing from your wheel and tire parts studio 2 times. Go into the revolute mate and select the center mate fastener in the axle and the center of the wheel. Next select the center of one of the bearing's front face and the central mate fastener of the small extrude that comes off the center of the wheel. Do that again with the second bearing and the other side of the wheel. 
+You make an Assembly studio at the bottom of the page and then insert the Wheel, tire, or them combined if you made them as one which I did, and 2 bearings. You want to fix the wheel to the origin. You will want to mate the tire and wheel together if they are not already one part. To do that select the fasten mate and then the inside face of the tire and the exterior flat outside of the wheel. Now insert the axle and bearing from your wheel and tire parts studio 2 times. Go into the revolute mate and select the center mate fastener in the axle and the center of the wheel. Next select the center of one of the bearing's front face and the central mate fastener of the small extrude that comes off the center of the wheel. Make sure to change the direction of the bearings (flip them) by clicking the arrow pointing down so it flips to point up. Repeat the proccess with the second bearing and the other side of the wheel. 
 
 ### Evidence
 [Onshape](https://cvilleschools.onshape.com/documents/927915425b900e39900be1d1/w/ce34bb8be3d17142ba8f5a39/e/9c28c0e7980608056d37a530)
@@ -127,4 +127,11 @@ YOu make an Assembly studio at the bottom of the page and then insert the Wheel,
 ![SubAssembly](Images/SubAssembly.png)
 
 ### Reflection
-
+I would say that knowing what the different mates do is important for starting assemblies. 
+- The fastened mate doesn't allow any motion
+- The revolute and The slider mates allow one egree of motion with respect to the primary access
+- The cylindrical mate allows two degrees of freedom with respect to the primary axis
+- The pin slot mate allows rotation about the primary axis and translation about the X axis of the slot
+- The parallel mate allows four degrees of freedom; rotation about the primary axis and translation in X, Y, and Z axes
+- The ball  mate allows rotation about the X, Y, and Z axes
+- The planar mate allows translation in the X and Y axes and rotation about the primary axis.
