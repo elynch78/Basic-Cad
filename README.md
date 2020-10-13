@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [SubAssembly](#SubAssembly)
 
 ## Base
 
@@ -94,7 +95,6 @@ The wheel starts with a simple 3 rectangle overlapping sketch on the right plane
 I accidentally made my tire on the front plane instead of the top plane so when I went to make my sketch on the right plane for the wheel that I was going to revolve it didn't seem right. I noticed my mistake from the tire and instead of redoing it which would have been a huge waste of time, I clicked on the sketch and selected the front plane instead of the right plane so that the sketch was perpendicular to the tire. I did this so that it would fit inside the tire correctly. 
 When cutting out the spokes it is a bit complicated but [following along with Mr. H's video](https://www.youtube.com/watch?v=DbOjDNK8Nsk&feature=emb_title) made it easy. 
 
-4
 
 ## AxleCollarBearings
 
@@ -113,4 +113,20 @@ To make the big bearing start a sketch on the front plane and draw 2 circles one
 ![Bearing](Images/Bearing.png)
 ### Reflection
 A useful thing to know how to do is how to make a new part studio within a document so you aren't making many documents. This far into the process of making the Caster you should know this by now but I'll explain it anyway. Down at the bottom of your screen you will see little rectangular boxes that say something like Part Studio 1 because you havent renamed them anything yet. To rename them just right click and select rename. To make another part studio just click the plus pn the bottom left of the screen. [Here is the link for the part's how-To video](https://www.youtube.com/watch?v=2r7YqGuF1vY&feature=emb_title)
+
+
+###SubAssembly
+
+### Description
+YOu make an Assembly studio at the bottom of the page and then insert the Wheel, tire, or them combined if you made them as one which I did, and 2 bearings. You want to fix the wheel to the origin. Then you will want to mate the tire and wheel together if they are not already one part. Select the fasten mate and then the 
+
+
+
+### Evidence
+
+
+### Image
+
+
+### Reflection
 
