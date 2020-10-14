@@ -135,3 +135,14 @@ I would say that knowing what the different mates do is important for starting a
 - The parallel mate allows four degrees of freedom; rotation about the primary axis and translation in X, Y, and Z axes
 - The ball  mate allows rotation about the X, Y, and Z axes
 - The planar mate allows translation in the X and Y axes and rotation about the primary axis.
+
+
+### FinalAssembly
+
+### Description
+
+### Evidence
+[Onshape](https://cvilleschools.onshape.com/documents/927915425b900e39900be1d1/w/ce34bb8be3d17142ba8f5a39/e/329c664be1ca7d52bf79084a)
+### Image
+![Final Assembly](Images/FinalAssembly.png)
+### Reflection
