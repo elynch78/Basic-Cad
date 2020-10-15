@@ -146,4 +146,4 @@ First insert the base and mount into the assembly. Fasten mate the base to the o
 ### Image
 ![CFinal Assembly](Images/CFinalAssembly.png)
 ### Reflection
-
+I'll just say make sure you have the selecties all correct when inserting bolts and all that stuff so that it fits and you dont have to exit out and delete the mistakes and fix the selecties. It just saves you time and work. [This video shows you how to do everything with an even more detailed description](https://www.youtube.com/watch?time_continue=835&v=orcp-asikM4&feature=emb_title)
